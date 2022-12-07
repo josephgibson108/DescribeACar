@@ -13,4 +13,4 @@ Joe Gibson's submission for Amplifund's interview take-home assignment.
 
 **Opening the Application**
 - Set up the designacarfrontend file with an npm install.
-- Run the application with an NPM run serve.
+- Run the application with an npm run serve.
