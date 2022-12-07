@@ -1,0 +1,64 @@
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\UPDATED Design A Car.exe
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\UPDATED Design A Car.deps.json
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\UPDATED Design A Car.runtimeconfig.json
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\UPDATED Design A Car.runtimeconfig.dev.json
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\UPDATED Design A Car.dll
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\UPDATED Design A Car.pdb
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.AssemblyInfo.cs
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\staticwebassets\UPDATED Design A Car.StaticWebAssets.Manifest.cache
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\staticwebassets\UPDATED Design A Car.StaticWebAssets.xml
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\scopedcss\bundle\UPDATED Design A Car.styles.css
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.RazorTargetAssemblyInfo.cache
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.csproj.CopyComplete
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.dll
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.pdb
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.genruntimeconfig.cache
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\source\repos\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\UPDATED Design A Car.exe
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\UPDATED Design A Car.deps.json
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\UPDATED Design A Car.runtimeconfig.json
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\UPDATED Design A Car.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\UPDATED Design A Car.dll
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\UPDATED Design A Car.pdb
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.AssemblyInfo.cs
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\staticwebassets\UPDATED Design A Car.StaticWebAssets.Manifest.cache
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\staticwebassets\UPDATED Design A Car.StaticWebAssets.xml
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\scopedcss\bundle\UPDATED Design A Car.styles.css
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.RazorTargetAssemblyInfo.cache
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.csproj.CopyComplete
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.dll
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.pdb
+C:\Users\Student\source\repos\Amplifund Describe A Car Project\UPDATED Design A Car\UPDATED Design A Car\obj\Debug\netcoreapp3.1\UPDATED Design A Car.genruntimeconfig.cache
