@@ -104,7 +104,8 @@ export default {
   align-content: center;
   background-color: orange;
   font-weight: bold;
-  font-size: 17px
+  font-size: 17px;
+  border-radius: 8px;
 }
 
 .form-btn:hover {
@@ -119,6 +120,7 @@ export default {
   /* first param specifies top and bottom, second is left and right */
   margin: 5px auto;
   margin-bottom: 0;
+  border-radius: 8px;
 }
 
 .form-element {
@@ -161,5 +163,4 @@ export default {
   align-items: center;
   justify-content: center;
 }
-
 </style>
